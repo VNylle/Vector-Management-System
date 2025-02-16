@@ -128,7 +128,7 @@ function CheckCouple()
   end
 end
 
--- main
+-- main or example on how to use it ig? 
 CreateVectorInfo("A", 10, 20)
 CreateVectorInfo("B", -5, 15)
 CreateVectorInfo("C", 7, -8)
